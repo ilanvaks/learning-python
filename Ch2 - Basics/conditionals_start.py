@@ -9,7 +9,10 @@ def main():
     x, y = 10, 100
 
     # conditional flow uses if, elif, else
-
+    if x < y: 
+        result = "x is less than y"
+        print(result)
+        
     # conditional statements let you use "a if C else b"
 
     # match-case makes it easy to compare multiple values
