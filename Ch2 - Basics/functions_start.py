@@ -5,7 +5,8 @@
 
 
 # TODO: define a basic function
-
+def func1():
+    print("I am a function")
 
 # TODO: function that takes arguments
 
@@ -18,4 +19,6 @@
 
 # TODO: function with variable number of arguments
 
-
+func1()
+print(func1())
+print(func1)
